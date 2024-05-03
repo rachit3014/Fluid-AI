@@ -60,9 +60,9 @@ npm start
 
 ## Backend API Endpoints
 
-### 3. Signup the user
+### 1. Signup the user
 
-- **Url:** http://localhost:8000/task/create
+- **Url:** http://localhost:8000/user/register
 - **Method:** POST
 - **Body:** In the body we have to pass
   - **email:** Please input email of the user
@@ -72,7 +72,7 @@ npm start
 ![Screenshot (309)](https://github.com/rachit3014/Fluid-AI/assets/84663169/3023f4a5-756e-40ac-b2e1-b6ce4bf6a259)
 
 
-### 3. Login the user
+### 2. Login the user
 
 - **Url:** http://localhost:8000/user/login
 - **Method:** POST
