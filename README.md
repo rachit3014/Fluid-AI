@@ -154,7 +154,7 @@ npm start
 
 - Unit tests for the API endpoints to ensure they function correctly.
 - Include integration tests that test the API endpoints with the database to ensure the system works as a whole.
-- Provide task id in task.test.js file and status to run test.
+- Provide user id in task.test.js file and status to run test.
 
 ![Screenshot (308)](https://github.com/rachit3014/Fluid-AI/assets/84663169/4ec75b1c-5953-4010-a529-a1e1dcd66fa4)
 
