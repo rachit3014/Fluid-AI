@@ -1,0 +1,33 @@
+{
+  "name": "fluid-ai",
+  "version": "1.0.0",
+  "description": "Task Management System",
+  "main": "server.js",
+  "scripts": {
+    "test": "cross-env NODE_ENV=test jest --testTimeout=,62000",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "Create",
+    "Update",
+    "Delete",
+    "JWT",
+    "authenticate"
+  ],
+  "author": "Rachit Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-validator": "^7.0.1",
+    "jest": "^29.7.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.3",
+    "nodemon": "^3.1.0",
+    "passport": "^0.7.0",
+    "passport-jwt": "^4.0.1",
+    "supertest": "^7.0.0"
+  }
+}
