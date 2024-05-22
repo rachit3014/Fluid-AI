@@ -1,4 +1,4 @@
-# Fluid AI
+# Task API
 
 Develop a RESTful API using Node.js that allows users to manage tasks. The system should support creating, retrieving, updating, and deleting tasks.
 
